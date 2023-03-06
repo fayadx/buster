@@ -16,6 +16,23 @@
       "message": "Looks okay to me",
       "revId": "03d01daad98d60f01e297b61e030b01b9617ec02",
       "serverId": "92921cf0-942d-4ce6-a905-73b388af4736"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3a4f020_975e6215",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2023-03-06T12:06:29Z",
+      "side": 1,
+      "message": "This is okay for me",
+      "revId": "03d01daad98d60f01e297b61e030b01b9617ec02",
+      "serverId": "92921cf0-942d-4ce6-a905-73b388af4736"
     }
   ]
 }
